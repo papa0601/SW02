@@ -1,4 +1,4 @@
-#define LED_PIN 13
+#define LED_PIN 7
 int count;
 int toggle;
 
